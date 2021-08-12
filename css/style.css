@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+}
+
+.container img {
+    background-size: 100% 100%;
+}
+
+h5,
+p,
+a {
+    overflow: hidden;
+}
+
+h5 {
+    font-weight: 600;
+}
+
+.col-md-3 img {
+    height: 50px;
+    width: 50px;
+}
+
+.col-md-3 {
+    text-align: center;
+}
+
+.removeBtn:hover {
+    cursor: pointer;
+    color: red;
+    font-size: 1.6rem;
+}
