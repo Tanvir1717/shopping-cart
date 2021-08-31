@@ -42,3 +42,13 @@ h5 {
     color: red;
     font-size: 1.6rem;
 }
+.headingTop {
+	background-color: #157347;
+	color: #fff;
+	font-weight: 600;
+}
+.cartTotalPrice {
+	background-color: #157347;
+	color: #fff;
+	font-weight: 600;
+}
